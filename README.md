@@ -13,13 +13,16 @@
 
 | Repo                                           | Deployed Site                                      | Description 
 | ---------------------------------------------- | -------------------------------------------------- | --------------------------------------------------
-| [Star Wars Catalog][SW]                        | [jesperskold.github.io/star-wars-catalog][SWS]     | A Star Wars themed catalog. Built with Vue    
-| [E-wallet][EW]                                 | [jesperskold.github.io/e-wallet][EWS]              | A digital wallet simulator. Built with Vue
+| [Recipe Site][RS]                              | [https://my-first-recipe-site.herokuapp.com][RSS]  | A full stack recipe site. Built with React and Express.    
+| [Star Wars Catalog][SW]                        | [jesperskold.github.io/star-wars-catalog][SWS]     | A Star Wars themed catalog. Built with Vue.   
+| [E-wallet][EW]                                 | [jesperskold.github.io/e-wallet][EWS]              | A digital wallet simulator. Built with Vue.
 | [DRG Mini Project][DRG]                        | [jesperskold.github.io/drg-mini-project][DRGS]     | A small all in one e-commerce site. Built with Vue.
 | [Todo App][TA]                                 | [https://jesperskold.github.io/todo-app-vue][TAS]  | A tiny TODO app. Built with Vue.
-| [SINUS Webshop][SIW]                           | Not Deployed, requires back-end server             | Collaborative project for an e-commerce store. Built with Vue
-| [Star Wars Catalog Pure JS][SWJS]              | Not Deployed                                       | A Star Wars themed catalog - but with no frameworks
+| [SINUS Webshop][SIW]                           | Not Deployed                                       | Collaborative project for an e-commerce store. Built with Vue.
+| [Star Wars Catalog Pure JS][SWJS]              | Not Deployed                                       | A Star Wars themed catalog - but with no frameworks.
 
+[RS]: https://github.com/JesperSkold/recipe-site
+[RSS]: https://my-first-recipe-site.herokuapp.com/
 [SW]: https://github.com/JesperSkold/star-wars-catalog
 [SWS]: https://jesperskold.github.io/star-wars-catalog/
 [EW]: https://github.com/JesperSkold/e-wallet
