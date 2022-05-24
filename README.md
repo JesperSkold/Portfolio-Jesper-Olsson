@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer student from Stockholm</h3>
 <h3 align="center">Looking for internship 2022.08.22 - 2022.10.10</h3>
 
-- 🔭 I’m currently working on [https://github.com/JesperSkold/rumbo-app](https://github.com/JesperSkold/rumbo-app)
+- 🔭 I’m currently working on [https://github.com/JesperSkold/recipe-site](https://github.com/JesperSkold/recipe-site)
 - 📫 How to reach me: Skoldfold@gmail.com 
 
 <h3 align="left">Languages and Tools:</h3>
