@@ -12,12 +12,12 @@
 
 | Repo                                           | Deployed Site                                      | Description 
 | ---------------------------------------------- | -------------------------------------------------- | --------------------------------------------------
-| [Recipe Site][RS]                              | [https://my-first-recipe-site.herokuapp.com][RSS]  | A full stack recipe site. Built with React and Express.    
+| [Recipe Site][RS]                              | [my-first-recipe-site.herokuapp.com][RSS]          | A full stack recipe site. Built with React and Express.    
 | [Star Wars Catalog][SW]                        | [jesperskold.github.io/star-wars-catalog][SWS]     | A Star Wars themed catalog. Built with Vue.   
 | [E-wallet][EW]                                 | [jesperskold.github.io/e-wallet][EWS]              | A digital wallet simulator. Built with Vue.
-| [Meme Customizer][MC]                          | [https://meme-customizer.netlify.app][MCS]         | A site for customizing popular memes. Built with React and TS.
+| [Meme Customizer][MC]                          | [meme-customizer.netlify.app][MCS]                 | A site for customizing popular memes. Built with React and TS.
 | [DRG Mini Project][DRG]                        | [jesperskold.github.io/drg-mini-project][DRGS]     | A small all in one e-commerce themed site. Built with Vue.
-| [Todo App][TA]                                 | [https://jesperskold.github.io/todo-app-vue][TAS]  | A tiny TODO app. Built with Vue.
+| [Todo App][TA]                                 | [jesperskold.github.io/todo-app-vue][TAS]          | A tiny TODO app. Built with Vue.
 | [SINUS Webshop][SIW]                           | Not Deployed                                       | Collaborative project for an e-commerce store. Built with Vue.
 | [Star Wars Catalog Pure JS][SWJS]              | Not Deployed                                       | A Star Wars themed catalog - but with no frameworks.
 
