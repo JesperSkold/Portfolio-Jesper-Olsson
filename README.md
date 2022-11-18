@@ -12,7 +12,7 @@
 
 | Repo                                           | Deployed Site                                      | Description 
 | ---------------------------------------------- | -------------------------------------------------- | --------------------------------------------------
-| [Recipe Site][RS]                              | [my-first-recipe-site.herokuapp.com][RSS]          | A full stack recipe site. Built with React, Express and TS.    
+| [Recipe Site][RS]                              | [recipe-site.onrender.com/][RSS]          | A full stack recipe site. Built with React, Express and TS.    
 | [Star Wars Catalog][SW]                        | [jesperskold.github.io/star-wars-catalog][SWS]     | A Star Wars themed catalog. Built with Vue.   
 | [E-wallet][EW]                                 | [jesperskold.github.io/e-wallet][EWS]              | A digital wallet simulator. Built with Vue.
 | [Meme Customizer][MC]                          | [meme-customizer.netlify.app][MCS]                 | A site for customizing popular memes. Built with React and TS.
