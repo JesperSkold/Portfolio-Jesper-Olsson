@@ -36,4 +36,6 @@
 [MC]: https://github.com/JesperSkold/meme-generator
 [MCS]: https://meme-customizer.netlify.app/
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JesperSkold&show_icons=true) ![GitHub metrics](https://metrics.lecoq.io/JesperSkold)
+![GitHub metrics](https://metrics.lecoq.io/JesperSkold) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesperSkold)](https://github.com/anuraghazra/github-readme-stats)
+
+
