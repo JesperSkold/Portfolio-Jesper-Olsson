@@ -22,7 +22,7 @@
 | [Star Wars Catalog Pure JS][SWJS]              | Not Deployed                                       | A Star Wars themed catalog - but with no frameworks.
 
 [RS]: https://github.com/JesperSkold/recipe-site
-[RSS]: https://my-first-recipe-site.herokuapp.com/
+[RSS]: https://recipe-site.onrender.com/
 [SW]: https://github.com/JesperSkold/star-wars-catalog
 [SWS]: https://jesperskold.github.io/star-wars-catalog/
 [EW]: https://github.com/JesperSkold/e-wallet
